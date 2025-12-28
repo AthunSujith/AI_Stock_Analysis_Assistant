@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+duckdb
+ta
+scikit-learn
+hmmlearn
+torch
+transformers
+redis
+python-dotenv
